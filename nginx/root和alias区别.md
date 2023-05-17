@@ -1,3 +1,11 @@
+---
+title: root和alias区别
+date: 2023-05-04 15:53:07
+tags:
+  - nginx
+description: root和alias区别
+copyright: true
+---
 ### root和alias的区别
 
 root和alias都可以定义在location模块中，都是用来指定请求资源的真实路径
