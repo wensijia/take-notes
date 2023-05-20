@@ -1,3 +1,11 @@
+---
+title: 切割大log日志文件
+date: 2023-04-19 10:22:39
+tags:
+  - Linux
+description: 切割大log日志文件
+copyright: true
+---
 ### 1、head命令切割大日志文件
 
 获取文本文件的开始 n 行
