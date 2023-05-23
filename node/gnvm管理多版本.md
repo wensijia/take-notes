@@ -1,3 +1,11 @@
+---
+title: gnvm管理多版本
+date: 2023-05-01 11:37:33
+tags:
+  - node
+description: gnvm管理多版本
+copyright: true
+---
 ### gnvm管理多版本
 
 #### 查看所有nodejs版本
