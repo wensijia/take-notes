@@ -1,3 +1,11 @@
+---
+title: 上传jar到私库
+date: 2023-04-23 11:45:34
+tags:
+  - Maven
+description: 上传jar到私库
+copyright: true
+---
 ### 上传jar到私库
 
 注意替换各参数内容
